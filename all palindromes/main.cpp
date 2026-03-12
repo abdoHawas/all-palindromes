@@ -1,6 +1,4 @@
-///     Name                 ID       Group
-///   Abdelrahman Ahmed    20160127     5
-///   Shiref Tarek         20160115     5
+
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -68,3 +66,4 @@ int main()
 
 
 }
+
