@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1520200694 source:f:\fci zeft\second  year\coding\file_p1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<vector>
+	<cstring>
+	<strstream>
+	<algorithm>
+
+1520200696 source:g:\file_p1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<vector>
+	<cstring>
+	<strstream>
+	<algorithm>
+
+1520235348 source:c:\users\abd elrahman ahmed\desktop\file_p1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<vector>
+	<cstring>
+	<strstream>
+	<algorithm>
+
+1520235348 source:c:\users\abd elrahman ahmed\desktop\files_assignment\file_p1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<vector>
+	<cstring>
+	<strstream>
+	<algorithm>
+
